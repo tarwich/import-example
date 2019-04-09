@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "allowJs": true,
+    "checkJs": true,
+    "moduleResolution": "node",
+
+    // Make import() work
+    "module": "esnext",
+    "target": "esnext",
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
